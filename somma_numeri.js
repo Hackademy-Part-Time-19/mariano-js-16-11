@@ -7,11 +7,11 @@ let b = 1;
 let somma = 0;
 
 
-for (let i = 1; i <= 200; i += 1) {
+for (let i = 1; i <= 200; i++) {
 
-    a = i;
+    
+    somma = somma + i;
 
-    somma = somma + a;
 
 }
 
