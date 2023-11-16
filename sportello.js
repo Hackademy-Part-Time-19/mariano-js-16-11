@@ -14,7 +14,7 @@ let saldo = 5000;
 
 while(true) {
     
-    test = prompt("Vuole accedere allo sportello? Y/N");
+    test = prompt("Prema y per accedere allo sportello.");
     if (test == "y") {
         
         test = ""
